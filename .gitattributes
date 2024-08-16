@@ -1,1 +1,2 @@
 240813_Snowforce3_Setup.exe filter=lfs diff=lfs merge=lfs -text
+Driver/** filter=lfs diff=lfs merge=lfs -text
