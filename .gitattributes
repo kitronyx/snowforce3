@@ -1,2 +1,5 @@
 240813_Snowforce3_Setup.exe filter=lfs diff=lfs merge=lfs -text
 Driver/** filter=lfs diff=lfs merge=lfs -text
+240823_Snowforce3[[:space:]]Setup.exe filter=lfs diff=lfs merge=lfs -text
+Older[[:space:]]Software/240813_Snowforce3_Setup.exe filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
